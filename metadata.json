@@ -1,7 +1,7 @@
 {
   "name": "Eigener",
-  "website": "https://holesky.eigenlayer.xyz/operator",
+  "website": "",
   "description": "Eigener Eigen Validator",
-  "logo": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+  "logo": "https://raw.githubusercontent.com/rohman-78/eigenlayer/main/logo.png",
   "twitter": ""
 }
